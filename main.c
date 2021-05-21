@@ -5,6 +5,7 @@
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 //WordCount.exe -c input.txt
 //WordCount.exe -w input.txt
+//±»846±à¼­¹ý 
 
 int main(int argc,char *argv[])
 {
